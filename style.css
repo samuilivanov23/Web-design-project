@@ -1,0 +1,35 @@
+.logo-size {
+    width: 100px;
+    height: 30px;
+    position: relative;
+    top: -5px;
+}
+
+.navbar {
+    margin-bottom: 0;
+    border-radius: 0;
+}
+
+.button-position {
+    position:relative;
+    transition: .5s ease;
+    top: 50%;
+    right: 60%;
+}
+
+.button-size {
+    width: 160px;
+    height: 60px;
+}
+
+.carousel-inner > .item > img {
+    width: 85%; 
+    height: 100%;
+    margin: auto;
+}
+
+@media (max-width: 600px) {
+    .carousel-inner{
+        display: none;
+    }
+}
