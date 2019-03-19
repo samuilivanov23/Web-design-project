@@ -5,3 +5,7 @@ $(document).ready(function(){
     $("nav").fadeIn("slow");
     $("nav").removeClass("hidden");
 });
+
+$(document).ready(function(){
+    $("#navbar_id").load("nav.html");
+});
