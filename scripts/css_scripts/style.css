@@ -23,12 +23,12 @@ ul > li > ul > li > a.url-colors{
     position:relative;
     transition: .5s ease;
     top: 50%;
-    right: 60%;
+    right: 50%;
 }
 
 .button-size {
-    width: 170px;
-    height: 60px;
+    width: 140px;
+    height: 40px;
 }
 
 .hidden{
