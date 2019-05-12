@@ -26,6 +26,40 @@ ul > li > ul > li > a.url-colors{
     right: 50%;
 }
 
+.projects-info{
+    color: black;
+}
+
+.projects-info-style:hover{
+    text-decoration: underline;
+    color: black;
+}
+
+.project-images-size{
+    width: 375px;
+    height: 450px;
+    padding-left: 40px;
+}
+
+.project-button-pos{
+    position:relative;
+    left: 38%;
+}
+
+.image-size{
+    width: 325px;
+    height: 450px;
+    padding-left: 10px;
+}
+
+.about-info-width{
+    width: 325px;
+}
+
+.about-info-underline:hover{
+    text-decoration: underline;
+}
+
 .button-size {
     width: 140px;
     height: 40px;
