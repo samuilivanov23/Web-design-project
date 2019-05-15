@@ -1,4 +1,4 @@
-.about-bckg-image{
+.bckg-image{
     background-image: url("../../images/bckg.JPG");
     background-size: 1366px 654px;
 }
@@ -10,6 +10,28 @@
     top: -5px;
 }
 
+.font-style{
+    font-family: 'Indie Flower';
+}
+
+.navbar-font-size{
+    font-size: 25px;
+}
+
+.contacts-bckg-color{
+    background-color: #14146b;
+}
+
+.contacts-font-size{
+    font-size: 20px;
+}
+
+.contacts-font-style{
+    font-family: 'Indie Flower';
+    color: yellow;
+    font-weight: bold;
+}
+
 li a {
     display: block;
     color: #000;
@@ -18,8 +40,12 @@ li a {
 }
 
 .navbar {
-    margin-bottom: 0;
+    margin: 0;
     border-radius: 0;
+}
+
+.navbar-text{
+    font-weight: bold;
 }
 
 .button-position {
@@ -58,7 +84,7 @@ li a {
 }
 
 .about-info-width{
-    width: 325px;
+    width: 400px;
 }
 
 .about-info-underline:hover{
