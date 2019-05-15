@@ -1,0 +1,27 @@
+.bckg-color{
+    background-color: #0a5699;
+}
+
+.navbar-font-size{
+    font-size: 25px;
+}
+
+.navbar {
+    margin: 0;
+    border-radius: 0;
+}
+
+.navbar-text{
+    font-weight: bold;
+}
+
+.font-style{
+    font-family: 'Indie Flower';
+}
+
+.logo-size {
+    width: 100px;
+    height: 30px;
+    position: relative;
+    top: -5px;
+}
