@@ -46,3 +46,10 @@
 .p-text-style{
     padding-left: 30px
 }
+
+.button-size {
+    margin: 0px 0px 10px 10px;
+    padding: 0px 1px 0px 0px;
+    width: 140px;
+    height: 40px;
+}
