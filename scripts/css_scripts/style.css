@@ -71,7 +71,17 @@ li a {
     padding-left: 40px;
 }
 
-.project-button-pos{
+.project-big-image-size{
+    width:1349px; 
+    padding-top: 10px
+}
+
+.projects-image-style{
+    padding: 30px 0px 0px 50px;
+}
+
+.projects-button-style{
+    margin-top: 10px;
     position:relative;
     left: 38%;
 }
@@ -83,12 +93,25 @@ li a {
     padding-left: 10px;
 }
 
-.about-info-width{
+.about-text-style{
+    font-family: 'Indie Flower';
+    font-weight: bolder;
+    font-size: 25px;
+    color: black; 
+    font-weight: bold; 
+    text-align: center;
+}
+
+.contacts-info-width{
     width: 400px;
 }
 
-.about-info-underline:hover{
+.contacts-info-underline:hover{
     text-decoration: underline;
+}
+
+.contacts-info-style{
+    padding-left: 55px;
 }
 
 .button-size {
