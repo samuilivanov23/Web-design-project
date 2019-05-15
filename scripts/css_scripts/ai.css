@@ -1,5 +1,5 @@
 .bckg-color{
-    background-color: #0a5699;
+    background-color: #343a3f;
 }
 
 .navbar-font-size{
@@ -24,4 +24,25 @@
     height: 30px;
     position: relative;
     top: -5px;
+}
+
+.normal-text-style{
+    font-family: 'Indie Flower';
+    color: white;
+}
+
+.major-list-el-text-size{
+    font-size: 25px;
+}
+
+.list-subelements-text-size{
+    font-size: 22px;
+}
+
+.bold-text{
+    font-weight: bold;
+}
+
+.p-text-style{
+    padding-left: 30px
 }
